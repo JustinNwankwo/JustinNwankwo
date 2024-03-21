@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Justin!
-👩🏻‍💻 Front End Developer sharing about my journey and learnings in tech<br/>
+👩🏻‍💻 Front End Developer sharing about my journey and learnings in tech.<br/>
 💭 Currently learning about react native. <br/>
 
 
