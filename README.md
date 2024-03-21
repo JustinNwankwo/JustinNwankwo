@@ -5,7 +5,6 @@
 🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
 💭 Currently learning about react native. <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
