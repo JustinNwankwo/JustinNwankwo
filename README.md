@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Justin!
 👩🏻‍💻 Front End Developer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Otago, New Zealand<br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
-🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
 💭 Currently learning about react native. <br/>
 
 
