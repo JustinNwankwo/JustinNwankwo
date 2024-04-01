@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Justin!
+# 👋 Hi, I'm Justin Nwankwo!
 👩🏻‍💻 Front End Developer sharing about my journey and learnings in tech.<br/>
 💭 Currently learning about react native. <br/>
 
