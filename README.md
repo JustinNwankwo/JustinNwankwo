@@ -8,7 +8,7 @@ What truly sets me apart is my unwavering commitment to continuous learning and 
 
 I'm excited about the opportunity to join a dynamic team at the forefront of web development, where I can contribute my skills and expertise to drive innovation and deliver impactful solutions. <br/>
 
-For a deeper dive into my portfolio and complete resume, please visit: https://developerjn.netlify.app.
+For a deeper dive into my portfolio and complete resume, please visit: https://developerjn.netlify.app. <br/>
 
 # 💻 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
