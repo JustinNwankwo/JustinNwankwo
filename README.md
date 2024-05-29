@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Justin Nwankwo!
 
-As a passionate and self-taught Front End Developer with 2 years of hands-on experience, I'm driven by a relentless pursuit of innovative solutions and a dedication to mastering the craft. My journey in web development has been a thrilling adventure, marked by countless hours of coding, problem-solving, and creative exploration. <br/>
+As a passionate and self-taught Front End Developer with 3 years of hands-on experience, I'm driven by a relentless pursuit of innovative solutions and a dedication to mastering the craft. My journey in web development has been a thrilling adventure, marked by countless hours of coding, problem-solving, and creative exploration. <br/>
 
 With expertise in React, TypeScript, JavaScript, Bootstrap, SCSS, CSS, and HTML, I craft web solutions that not only look great but also deliver exceptional user experiences. From optimizing performance to enhancing usability, I'm committed to pushing the boundaries of what's possible on the web. <br/>
 
